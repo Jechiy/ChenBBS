@@ -1,0 +1,10 @@
+<?php
+$title="cjen";
+$sqlitedb="6AD830ED241C28288A452C771792892C";
+$zckg="0";
+$zcts="论坛关闭了注册，www.69mz.com";
+$fwkg="0";
+$fwts="系统维护中！请稍后访问！";
+$ltggkg="0";
+$ltgg="";
+?>
